@@ -2543,7 +2543,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/gray-500-borderless.9.png"
+			file: "/home/michal/Skin-Composer/hotel-simulator_data/separator-line.9.png"
 			bgColor: {
 				r: 1
 				g: 1
@@ -2552,7 +2552,7 @@ atlasData: {
 			}
 			tint: null
 			tintName: null
-			name: gray-500-borderless
+			name: separator-line
 			tiled: false
 			minWidth: -1
 			minHeight: -1
@@ -2623,7 +2623,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/gray-100-border-round.9.png"
+			file: "/home/michal/Skin-Composer/hotel-simulator_data/slider-component-background.9.png"
 			bgColor: {
 				r: 1
 				g: 1
@@ -2632,7 +2632,7 @@ atlasData: {
 			}
 			tint: null
 			tintName: null
-			name: gray-100-border-round
+			name: slider-component-background 
 			tiled: false
 			minWidth: -1
 			minHeight: -1
