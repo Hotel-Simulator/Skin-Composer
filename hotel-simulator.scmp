@@ -2403,7 +2403,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/list-background.9.png"
+			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/label-selectBox-background.9.png"
 			bgColor: {
 				r: 1
 				g: 1
@@ -2412,7 +2412,27 @@ atlasData: {
 			}
 			tint: null
 			tintName: null
-			name: list-background
+			name: label-selectBox-background
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/frame-glass-background.9.png"
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: frame-glass-background
 			tiled: false
 			minWidth: -1
 			minHeight: -1
@@ -2463,7 +2483,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/label-selectBox-background.9.png"
+			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/list-background.9.png"
 			bgColor: {
 				r: 1
 				g: 1
@@ -2472,67 +2492,7 @@ atlasData: {
 			}
 			tint: null
 			tintName: null
-			name: label-selectBox-background
-			tiled: false
-			minWidth: -1
-			minHeight: -1
-			customized: false
-			tenPatchData: null
-			tvgData: null
-			type: NINE_PATCH
-			hidden: false
-		}
-		{
-			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/frame-glass-background.9.png"
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			tint: null
-			tintName: null
-			name: frame-glass-background
-			tiled: false
-			minWidth: -1
-			minHeight: -1
-			customized: false
-			tenPatchData: null
-			tvgData: null
-			type: NINE_PATCH
-			hidden: false
-		}
-		{
-			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/list-last-over.9.png"
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			tint: null
-			tintName: null
-			name: list-last-over
-			tiled: false
-			minWidth: -1
-			minHeight: -1
-			customized: false
-			tenPatchData: null
-			tvgData: null
-			type: NINE_PATCH
-			hidden: false
-		}
-		{
-			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/list-last-selection.9.png"
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			tint: null
-			tintName: null
-			name: list-last-selection
+			name: list-background
 			tiled: false
 			minWidth: -1
 			minHeight: -1
@@ -4676,7 +4636,7 @@ jsonData: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
 						optional: false
-						value: subtittle1
+						value: body1
 					}
 					fontColor: {
 						type: com.badlogic.gdx.graphics.Color
@@ -6553,57 +6513,6 @@ jsonData: {
 						name: over
 						optional: true
 						value: list-over
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: list-background
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: selectMenuLast
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.List
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: body1
-					}
-					fontColorSelected: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColorSelected
-						optional: false
-						value: Gray_900
-					}
-					fontColorUnselected: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColorUnselected
-						optional: false
-						value: Shadow
-					}
-					selection: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: selection
-						optional: false
-						value: list-last-selection
-					}
-					down: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: down
-						optional: true
-						value: null
-					}
-					over: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: over
-						optional: true
-						value: list-last-over
 					}
 					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
