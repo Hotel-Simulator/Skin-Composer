@@ -2383,6 +2383,106 @@ atlasData: {
 			hidden: false
 		}
 		{
+			file: "/home/michal/Skin-Composer/hotel-simulator_data/separator-line.9.png"
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: separator-line
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: "/home/michal/Skin-Composer/hotel-simulator_data/gray-100-borderless-round.9.png"
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: gray-100-borderless-round
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: "/home/michal/Skin-Composer/hotel-simulator_data/gray-300-borderless-round.9.png"
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: gray-300-borderless-round
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: "/home/michal/Skin-Composer/hotel-simulator_data/gray-300-border-round.9.png"
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: gray-300-border-round
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: "/home/michal/Skin-Composer/hotel-simulator_data/slider-component-background.9.png"
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: slider-component-background
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
 			file: "/home/michal/Skin-Composer/hotel-simulator_data/selectbox-background.9.png"
 			bgColor: {
 				r: 1
@@ -7472,7 +7572,7 @@ preferences: {
 	}
 	last-import-export-path: {
 		class: java.lang.String
-		value: "/home/lawos/IdeaProjects/hotel-simulator/assets/skin/skin.json"
+		value: "/home/michal/hotel-simulator/assets/skin/skin.json"
 	}
 	resources-relative: {
 		class: java.lang.Boolean
@@ -7484,7 +7584,7 @@ preferences: {
 	}
 	last-scene-composer-json: {
 		class: java.lang.String
-		value: "/home/lawos/IdeaProjects/hotel-simulator/assets/view/empty.json"
+		value: "/home/michal/hotel-simulator/assets/view/empty.json"
 	}
 }
 saveFile: "/home/michal/Skin-Composer/hotel-simulator.scmp"
