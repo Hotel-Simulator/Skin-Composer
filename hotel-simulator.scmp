@@ -2,9 +2,8 @@
 atlasData: {
 	atlasCurrent: true
 	drawables: [
-
-{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/underscore.9.png"
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/underscore.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -23,9 +22,8 @@ atlasData: {
 			type: NINE_PATCH
 			hidden: false
 		}
-
-{
-			file: hotel-simulator_data/table-header-background.9.png
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/table-header-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -45,7 +43,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: hotel-simulator_data/table-row-background.9.png
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/table-row-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -65,7 +63,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: hotel-simulator_data/table-separator-line.9.png
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/table-separator-line.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -85,7 +83,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/slider-line.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/slider-line.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -105,7 +103,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/slider-knob-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/slider-knob-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -125,7 +123,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/slider-knob-down.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/slider-knob-down.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -145,7 +143,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/slider-knob.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/slider-knob.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -165,7 +163,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/value-tag-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/value-tag-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -185,7 +183,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/rating-star-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/rating-star-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -205,7 +203,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/rating-star-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/rating-star-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -225,7 +223,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/rating-star-dimmed.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/rating-star-dimmed.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -245,7 +243,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/rating-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/rating-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -265,7 +263,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/scroll-pane-vscroll.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/scroll-pane-vscroll.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -285,7 +283,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/scroll-pane-knob.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/scroll-pane-knob.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -305,7 +303,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-top.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-top.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -325,7 +323,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-tax-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-tax-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -345,7 +343,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-tax-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-tax-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -365,7 +363,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-tax-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-tax-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -385,7 +383,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-rooms-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-rooms-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -405,7 +403,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-rooms-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-rooms-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -425,7 +423,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-rooms-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-rooms-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -445,7 +443,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-places-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-places-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -465,7 +463,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-places-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-places-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -485,7 +483,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-places-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-places-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -505,7 +503,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-offer-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-offer-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -525,7 +523,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-offer-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-offer-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -545,7 +543,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-offer-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-offer-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -565,7 +563,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-manage-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-manage-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -585,7 +583,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-manage-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-manage-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -605,7 +603,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-manage-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-manage-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -625,7 +623,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-hotel-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-hotel-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -645,7 +643,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-hotel-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-hotel-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -665,7 +663,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-hotel-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-hotel-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -685,7 +683,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-history-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-history-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -705,7 +703,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-history-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-history-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -725,7 +723,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-history-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-history-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -745,7 +743,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-hire-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-hire-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -765,7 +763,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-hire-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-hire-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -785,7 +783,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-hire-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-hire-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -805,7 +803,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-employee-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-employee-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -825,7 +823,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-employee-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-employee-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -845,7 +843,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-employee-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-employee-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -865,7 +863,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-deposit-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-deposit-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -885,7 +883,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-deposit-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-deposit-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -905,7 +903,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-deposit-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-deposit-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -925,7 +923,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-credit-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-credit-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -945,7 +943,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-credit-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-credit-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -965,7 +963,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-credit-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-credit-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -985,7 +983,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-bottom.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-bottom.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1005,7 +1003,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-board-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-board-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1025,7 +1023,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-board-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-board-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1045,7 +1043,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-board-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-board-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1065,7 +1063,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-bank-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-bank-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1085,7 +1083,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-bank-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-bank-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1105,7 +1103,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-bank-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-bank-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1125,7 +1123,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-back-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-back-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1145,7 +1143,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-back-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-back-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1165,7 +1163,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-back-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-back-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1185,7 +1183,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-account-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-account-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1205,7 +1203,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-account-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-account-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1225,7 +1223,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-account-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-account-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1245,7 +1243,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-plus-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-plus-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1265,7 +1263,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-plus-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-plus-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1285,7 +1283,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-plus-down.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-plus-down.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1305,7 +1303,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-play-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-play-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1325,7 +1323,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-play-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-play-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1345,7 +1343,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-pauze-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-pauze-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1365,7 +1363,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-pauze-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-pauze-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1385,7 +1383,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-minus-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-minus-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1405,7 +1403,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-minus-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-minus-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1425,7 +1423,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-time-minus-down.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-time-minus-down.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1445,7 +1443,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-options-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-options-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1465,7 +1463,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-options-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-options-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1485,7 +1483,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-options-down.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-options-down.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1505,7 +1503,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-calendar-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-calendar-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1525,7 +1523,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-calendar-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-calendar-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1545,7 +1543,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-calendar-down.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-calendar-down.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1565,7 +1563,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/list-selection.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/list-selection.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1585,7 +1583,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/list-over.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/list-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1605,7 +1603,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/list-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/list-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1625,7 +1623,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/checkbox-on-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/checkbox-on-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1645,7 +1643,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/checkbox-on-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/checkbox-on-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1665,7 +1663,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/checkbox-on-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/checkbox-on-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1685,7 +1683,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/checkbox-off-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/checkbox-off-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1705,7 +1703,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/checkbox-off-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/checkbox-off-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1725,7 +1723,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/checkbox-off-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/checkbox-off-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1745,7 +1743,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/default.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/default.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1765,7 +1763,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-filter-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-filter-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1785,7 +1783,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-filter-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-filter-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1805,7 +1803,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button-filter-down.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button-filter-down.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1825,7 +1823,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/night-city.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/night-city.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1845,7 +1843,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/frame-glass-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/frame-glass-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1865,7 +1863,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/slider-background.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/slider-background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1885,7 +1883,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/slider-background.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/slider-background.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1934,7 +1932,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-acceleration-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-acceleration-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1954,7 +1952,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/label-time-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/label-time-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1974,7 +1972,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/label-money-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/label-money-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -1994,7 +1992,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/select-box-background-open.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/select-box-background-open.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2014,7 +2012,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/select-box-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/select-box-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2034,7 +2032,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/label-select-box-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/label-select-box-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2054,7 +2052,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-ad-disabled.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-ad-disabled.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2074,7 +2072,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-ad-over.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-ad-over.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2094,7 +2092,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/navbar-ad-up.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/navbar-ad-up.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2114,7 +2112,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-small-up.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-small-up.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2134,7 +2132,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-small-over.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-small-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2154,7 +2152,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-small-down.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-small-down.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2174,7 +2172,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-small-disabled.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-small-disabled.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2194,7 +2192,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-medium-up.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-medium-up.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2214,7 +2212,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-medium-over.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-medium-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2234,7 +2232,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-medium-down.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-medium-down.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2254,7 +2252,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-medium-disabled.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-medium-disabled.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2274,7 +2272,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-large-up.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-large-up.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2294,7 +2292,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-large-over.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-large-over.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2314,7 +2312,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-large-down.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-large-down.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2334,7 +2332,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/text-button-large-disabled.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/text-button-large-disabled.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2354,7 +2352,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/underscore.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/underscore.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2374,7 +2372,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/event-icon-business-conference.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/event-icon-business-conference.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2394,7 +2392,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/event-icon-fair.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/event-icon-fair.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2414,7 +2412,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/event-icon-music-festival.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/event-icon-music-festival.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2434,7 +2432,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/event-icon-scientific-conference.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/event-icon-scientific-conference.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2454,7 +2452,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/event-icon-sport-tournament.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/event-icon-sport-tournament.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2474,7 +2472,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/event-icon-summer-vacation.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/event-icon-summer-vacation.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2494,7 +2492,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/event-icon-winter-vacation.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/event-icon-winter-vacation.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2514,7 +2512,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/modal-glass-background.9.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/modal-glass-background.9.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2533,10 +2531,130 @@ atlasData: {
 			type: NINE_PATCH
 			hidden: false
 		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/scenario-icon-hospital.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scenario-icon-hospital
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/scenario-icon-hotel.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scenario-icon-hotel
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/scenario-icon-water.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scenario-icon-water
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/hotel-room.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: hotel-room
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/scenario-button-up.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scenario-button-up
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/scenario-button-down.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: scenario-button-down
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
 	]
 	fontDrawables: [
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-body1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-body1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2556,7 +2674,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-body2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-body2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2576,7 +2694,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-button1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-button1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2596,7 +2714,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-button2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-button2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2616,7 +2734,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-button3.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-button3.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2636,7 +2754,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-console.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-console.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2656,7 +2774,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h1_0.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h1_0.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2676,7 +2794,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h1_1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h1_1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2696,7 +2814,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h1_2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h1_2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2716,7 +2834,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h2_0.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h2_0.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2736,7 +2854,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h2_1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h2_1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2756,7 +2874,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h3.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h3.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2776,7 +2894,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h4.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h4.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2796,7 +2914,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-subtitle1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-subtitle1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2816,7 +2934,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-subtitle2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-subtitle2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2836,7 +2954,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/body1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/body1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2856,7 +2974,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/body2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/body2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2876,7 +2994,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2896,7 +3014,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2916,7 +3034,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button3.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button3.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2936,7 +3054,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/console.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/console.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2956,7 +3074,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h1_0.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h1_0.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2976,7 +3094,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h1_1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h1_1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -2996,7 +3114,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h1_2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h1_2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3016,7 +3134,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h2_0.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h2_0.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3036,7 +3154,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h2_1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h2_1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3056,7 +3174,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h3.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h3.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3076,7 +3194,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h4.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h4.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3096,7 +3214,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/subtitle1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/subtitle1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3116,7 +3234,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/subtitle2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/subtitle2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3136,7 +3254,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-subtitle1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-subtitle1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3156,7 +3274,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-subtitle2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-subtitle2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3176,7 +3294,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/subtitle1.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/subtitle1.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3196,7 +3314,7 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/subtitle2.png"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/subtitle2.png
 			bgColor: {
 				r: 1
 				g: 1
@@ -3557,7 +3675,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/body1.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/body1.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3565,7 +3683,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/body2.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/body2.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3573,7 +3691,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button1.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button1.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3581,7 +3699,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button2.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button2.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3589,7 +3707,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/button3.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/button3.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3597,7 +3715,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/console.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/console.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3605,7 +3723,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h1.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h1.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3613,7 +3731,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h2.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h2.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3621,7 +3739,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h3.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h3.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3629,7 +3747,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/h4.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/h4.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3637,7 +3755,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/subtitle1.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/subtitle1.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3645,7 +3763,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/subtitle2.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/subtitle2.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3653,7 +3771,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-body1.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-body1.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3661,7 +3779,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-body2.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-body2.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3669,7 +3787,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-button1.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-button1.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3677,7 +3795,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-button2.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-button2.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3685,7 +3803,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-button3.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-button3.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3693,7 +3811,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-console.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-console.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3701,7 +3819,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h1.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h1.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3709,7 +3827,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h2.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h2.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3717,7 +3835,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h3.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h3.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3725,7 +3843,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-h4.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-h4.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3733,7 +3851,7 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-subtitle1.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-subtitle1.fnt
 		}
 		{
 			class: com.ray3k.skincomposer.data.FontData
@@ -3741,453 +3859,20 @@ jsonData: {
 			flip: false
 			markupEnabled: false
 			scaling: -1
-			file: "/home/michal/Skin-Composer/hotel-simulator_data/white-subtitle2.fnt"
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/white-subtitle2.fnt
 		}
 	]
 	freeTypeFonts: []
 	classStyleMap: {
-		com.badlogic.gdx.scenes.scene2d.ui.Window: [
+		com.badlogic.gdx.scenes.scene2d.ui.Touchpad: [
 			{
 				class: com.ray3k.skincomposer.data.StyleData
 				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Window
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Touchpad
 				properties: {
 					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: background
-						optional: true
-						value: null
-					}
-					titleFont: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: titleFont
-						optional: false
-						value: subtitle2
-					}
-					titleFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: titleFontColor
-						optional: true
-						value: null
-					}
-					stageBackground: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: stageBackground
-						optional: true
-						value: null
-					}
-				}
-				deletable: false
-				parent: null
-			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.ScrollPane: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane
-				properties: {
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: list-background
-					}
-					corner: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: corner
-						optional: true
-						value: null
-					}
-					hScroll: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: hScroll
-						optional: true
-						value: null
-					}
-					hScrollKnob: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: hScrollKnob
-						optional: true
-						value: null
-					}
-					vScroll: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: vScroll
-						optional: true
-						value: scroll-pane-vscroll
-					}
-					vScrollKnob: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: vScrollKnob
-						optional: true
-						value: scroll-pane-knob
-					}
-				}
-				deletable: false
-				parent: null
-			}
-			{
-            				class: com.ray3k.skincomposer.data.StyleData
-            				name: transparent
-            				clazz: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane
-            				properties: {
-            					background: {
-            						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-            						name: background
-            						optional: true
-            						value: null
-            					}
-            					corner: {
-            						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-            						name: corner
-            						optional: true
-            						value: null
-            					}
-            					hScroll: {
-            						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-            						name: hScroll
-            						optional: true
-            						value: null
-            					}
-            					hScrollKnob: {
-            						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-            						name: hScrollKnob
-            						optional: true
-            						value: null
-            					}
-            					vScroll: {
-            						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-            						name: vScroll
-            						optional: true
-            						value: scroll-pane-vscroll
-            					}
-            					vScrollKnob: {
-            						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-            						name: vScrollKnob
-            						optional: true
-            						value: scroll-pane-knob
-            					}
-            				}
-            				deletable: true
-            				parent: null
-            			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.List: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.List
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: subtitle2
-					}
-					fontColorSelected: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColorSelected
-						optional: false
-						value: gray-000
-					}
-					fontColorUnselected: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColorUnselected
-						optional: false
-						value: gray-000
-					}
-					selection: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: selection
-						optional: false
-						value: list-background
-					}
-					down: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: down
-						optional: true
-						value: null
-					}
-					over: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: over
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: false
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: selectMenu
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.List
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: subtitle2
-					}
-					fontColorSelected: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColorSelected
-						optional: false
-						value: gray-000
-					}
-					fontColorUnselected: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColorUnselected
-						optional: false
-						value: gray-000
-					}
-					selection: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: selection
-						optional: false
-						value: list-selection
-					}
-					down: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: down
-						optional: true
-						value: list-selection
-					}
-					over: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: over
-						optional: true
-						value: list-over
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.Tree: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Tree
-				properties: {
-					plus: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: plus
-						optional: false
-						value: button-time-plus-up
-					}
-					minus: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: minus
-						optional: false
-						value: button-time-minus-up
-					}
-					plusOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: plusOver
-						optional: true
-						value: null
-					}
-					minusOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: minusOver
-						optional: true
-						value: null
-					}
-					over: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: over
-						optional: true
-						value: null
-					}
-					selection: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: selection
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: false
-				parent: null
-			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.ImageButton: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
-				properties: {
-					imageUp: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageUp
-						optional: true
-						value: null
-					}
-					imageDown: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageDown
-						optional: true
-						value: null
-					}
-					imageOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageOver
-						optional: true
-						value: null
-					}
-					imageDisabled: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageDisabled
-						optional: true
-						value: null
-					}
-					imageChecked: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageChecked
-						optional: true
-						value: null
-					}
-					imageCheckedDown: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageCheckedDown
-						optional: true
-						value: null
-					}
-					imageCheckedOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageCheckedOver
-						optional: true
-						value: null
-					}
-					up: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: up
-						optional: true
-						value: null
-					}
-					down: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: down
-						optional: true
-						value: null
-					}
-					over: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: over
-						optional: true
-						value: null
-					}
-					focused: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: focused
-						optional: true
-						value: null
-					}
-					disabled: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabled
-						optional: true
-						value: null
-					}
-					checked: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checked
-						optional: true
-						value: null
-					}
-					checkedOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedOver
-						optional: true
-						value: null
-					}
-					checkedDown: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedDown
-						optional: true
-						value: null
-					}
-					checkedFocused: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedFocused
-						optional: true
-						value: null
-					}
-					pressedOffsetX: {
-						type: float
-						name: pressedOffsetX
-						optional: true
-						value: 0
-					}
-					pressedOffsetY: {
-						type: float
-						name: pressedOffsetY
-						optional: true
-						value: 0
-					}
-					unpressedOffsetX: {
-						type: float
-						name: unpressedOffsetX
-						optional: true
-						value: 0
-					}
-					unpressedOffsetY: {
-						type: float
-						name: unpressedOffsetY
-						optional: true
-						value: 0
-					}
-					checkedOffsetX: {
-						type: float
-						name: checkedOffsetX
-						optional: true
-						value: 0
-					}
-					checkedOffsetY: {
-						type: float
-						name: checkedOffsetY
-						optional: true
-						value: 0
-					}
-				}
-				deletable: false
-				parent: null
-			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.ProgressBar: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default-horizontal
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.ProgressBar
-				properties: {
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: false
-						value: slider-line
-					}
-					disabledBackground: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabledBackground
 						optional: true
 						value: null
 					}
@@ -4196,122 +3881,6 @@ jsonData: {
 						name: knob
 						optional: true
 						value: null
-					}
-					disabledKnob: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabledKnob
-						optional: true
-						value: null
-					}
-					knobBefore: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: knobBefore
-						optional: true
-						value: null
-					}
-					disabledKnobBefore: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabledKnobBefore
-						optional: true
-						value: null
-					}
-					knobAfter: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: knobAfter
-						optional: true
-						value: null
-					}
-					disabledKnobAfter: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabledKnobAfter
-						optional: true
-						value: null
-					}
-				}
-				deletable: false
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default-vertical
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.ProgressBar
-				properties: {
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: false
-						value: slider-line
-					}
-					disabledBackground: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabledBackground
-						optional: true
-						value: null
-					}
-					knob: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: knob
-						optional: true
-						value: null
-					}
-					disabledKnob: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabledKnob
-						optional: true
-						value: null
-					}
-					knobBefore: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: knobBefore
-						optional: true
-						value: null
-					}
-					disabledKnobBefore: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabledKnobBefore
-						optional: true
-						value: null
-					}
-					knobAfter: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: knobAfter
-						optional: true
-						value: null
-					}
-					disabledKnobAfter: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabledKnobAfter
-						optional: true
-						value: null
-					}
-				}
-				deletable: false
-				parent: null
-			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.TextTooltip: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.TextTooltip
-				properties: {
-					label: {
-						type: com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle
-						name: label
-						optional: false
-						value: default
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-					wrapWidth: {
-						type: float
-						name: wrapWidth
-						optional: true
-						value: 0
 					}
 				}
 				deletable: false
@@ -4470,61 +4039,47 @@ jsonData: {
 				parent: null
 			}
 		]
-		com.badlogic.gdx.scenes.scene2d.ui.SplitPane: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default-horizontal
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.SplitPane
-				properties: {
-					handle: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: handle
-						optional: false
-						value: slider-line
-					}
-				}
-				deletable: false
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default-vertical
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.SplitPane
-				properties: {
-					handle: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: handle
-						optional: false
-						value: null
-					}
-				}
-				deletable: false
-				parent: null
-			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.Label: [
+		com.badlogic.gdx.scenes.scene2d.ui.ScrollPane: [
 			{
 				class: com.ray3k.skincomposer.data.StyleData
 				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane
 				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: body1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
 					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: background
 						optional: true
+						value: list-background
+					}
+					corner: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: corner
+						optional: true
 						value: null
+					}
+					hScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScroll
+						optional: true
+						value: null
+					}
+					hScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScrollKnob
+						optional: true
+						value: null
+					}
+					vScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScroll
+						optional: true
+						value: scroll-pane-vscroll
+					}
+					vScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScrollKnob
+						optional: true
+						value: scroll-pane-knob
 					}
 				}
 				deletable: false
@@ -4532,996 +4087,47 @@ jsonData: {
 			}
 			{
 				class: com.ray3k.skincomposer.data.StyleData
-				name: h1
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				name: transparent
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane
 				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: h1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
 					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: background
 						optional: true
 						value: null
 					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: h2
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: h2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
+					corner: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
+						name: corner
 						optional: true
 						value: null
 					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: h3
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: h3
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
+					hScroll: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
+						name: hScroll
 						optional: true
 						value: null
+					}
+					hScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: hScrollKnob
+						optional: true
+						value: null
+					}
+					vScroll: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScroll
+						optional: true
+						value: scroll-pane-vscroll
+					}
+					vScrollKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: vScrollKnob
+						optional: true
+						value: scroll-pane-knob
 					}
 				}
 				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: h4
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: h4
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: body1
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: body1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: body2
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: body2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: button1
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: button1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: button2
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: button2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: button3
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: button3
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: subtitle1
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: subtitle1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: subtitle2
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: subtitle2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-h1
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-h1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-h2
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-h2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-h3
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-h3
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-h4
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-h4
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-body1
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-body1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-body2
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-body2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-button1
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-button1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-button2
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-button2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-button3
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-button3
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-subtitle1
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-subtitle1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: white-subtitle2
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
-				properties: {
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: white-subtitle2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					background: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: background
-						optional: true
-						value: null
-					}
-				}
-				deletable: true
-				parent: null
-			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.CheckBox: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.CheckBox
-				properties: {
-					checkboxOn: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkboxOn
-						optional: false
-						value: checkbox-on-up
-					}
-					checkboxOff: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkboxOff
-						optional: false
-						value: checkbox-off-up
-					}
-					checkboxOnOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkboxOnOver
-						optional: true
-						value: checkbox-on-over
-					}
-					checkboxOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkboxOver
-						optional: true
-						value: checkbox-off-over
-					}
-					checkboxOnDisabled: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkboxOnDisabled
-						optional: true
-						value: checkbox-on-disabled
-					}
-					checkboxOffDisabled: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkboxOffDisabled
-						optional: true
-						value: checkbox-off-disabled
-					}
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: body1
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					downFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: downFontColor
-						optional: true
-						value: null
-					}
-					overFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: overFontColor
-						optional: true
-						value: null
-					}
-					focusedFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: focusedFontColor
-						optional: true
-						value: null
-					}
-					disabledFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: disabledFontColor
-						optional: true
-						value: null
-					}
-					checkedFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: checkedFontColor
-						optional: true
-						value: null
-					}
-					checkedDownFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: checkedDownFontColor
-						optional: true
-						value: null
-					}
-					checkedOverFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: checkedOverFontColor
-						optional: true
-						value: null
-					}
-					checkedFocusedFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: checkedFocusedFontColor
-						optional: true
-						value: null
-					}
-					up: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: up
-						optional: true
-						value: null
-					}
-					down: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: down
-						optional: true
-						value: null
-					}
-					over: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: over
-						optional: true
-						value: null
-					}
-					focused: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: focused
-						optional: true
-						value: null
-					}
-					disabled: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabled
-						optional: true
-						value: null
-					}
-					checked: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checked
-						optional: true
-						value: null
-					}
-					checkedOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedOver
-						optional: true
-						value: null
-					}
-					checkedDown: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedDown
-						optional: true
-						value: null
-					}
-					checkedFocused: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedFocused
-						optional: true
-						value: null
-					}
-					pressedOffsetX: {
-						type: float
-						name: pressedOffsetX
-						optional: true
-						value: 0
-					}
-					pressedOffsetY: {
-						type: float
-						name: pressedOffsetY
-						optional: true
-						value: 0
-					}
-					unpressedOffsetX: {
-						type: float
-						name: unpressedOffsetX
-						optional: true
-						value: 0
-					}
-					unpressedOffsetY: {
-						type: float
-						name: unpressedOffsetY
-						optional: true
-						value: 0
-					}
-					checkedOffsetX: {
-						type: float
-						name: checkedOffsetX
-						optional: true
-						value: 0
-					}
-					checkedOffsetY: {
-						type: float
-						name: checkedOffsetY
-						optional: true
-						value: 0
-					}
-				}
-				deletable: false
-				parent: null
-			}
-		]
-		com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton: [
-			{
-				class: com.ray3k.skincomposer.data.StyleData
-				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton
-				properties: {
-					imageUp: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageUp
-						optional: true
-						value: null
-					}
-					imageDown: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageDown
-						optional: true
-						value: null
-					}
-					imageOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageOver
-						optional: true
-						value: null
-					}
-					imageDisabled: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageDisabled
-						optional: true
-						value: null
-					}
-					imageChecked: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageChecked
-						optional: true
-						value: null
-					}
-					imageCheckedDown: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageCheckedDown
-						optional: true
-						value: null
-					}
-					imageCheckedOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: imageCheckedOver
-						optional: true
-						value: null
-					}
-					font: {
-						type: com.badlogic.gdx.graphics.g2d.BitmapFont
-						name: font
-						optional: false
-						value: subtitle2
-					}
-					fontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
-						optional: true
-						value: null
-					}
-					downFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: downFontColor
-						optional: true
-						value: null
-					}
-					overFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: overFontColor
-						optional: true
-						value: null
-					}
-					focusedFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: focusedFontColor
-						optional: true
-						value: null
-					}
-					disabledFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: disabledFontColor
-						optional: true
-						value: null
-					}
-					checkedFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: checkedFontColor
-						optional: true
-						value: null
-					}
-					checkedDownFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: checkedDownFontColor
-						optional: true
-						value: null
-					}
-					checkedOverFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: checkedOverFontColor
-						optional: true
-						value: null
-					}
-					checkedFocusedFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: checkedFocusedFontColor
-						optional: true
-						value: null
-					}
-					up: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: up
-						optional: true
-						value: null
-					}
-					down: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: down
-						optional: true
-						value: null
-					}
-					over: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: over
-						optional: true
-						value: null
-					}
-					focused: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: focused
-						optional: true
-						value: null
-					}
-					disabled: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: disabled
-						optional: true
-						value: null
-					}
-					checked: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checked
-						optional: true
-						value: null
-					}
-					checkedOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedOver
-						optional: true
-						value: null
-					}
-					checkedDown: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedDown
-						optional: true
-						value: null
-					}
-					checkedFocused: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: checkedFocused
-						optional: true
-						value: null
-					}
-					pressedOffsetX: {
-						type: float
-						name: pressedOffsetX
-						optional: true
-						value: 0
-					}
-					pressedOffsetY: {
-						type: float
-						name: pressedOffsetY
-						optional: true
-						value: 0
-					}
-					unpressedOffsetX: {
-						type: float
-						name: unpressedOffsetX
-						optional: true
-						value: 0
-					}
-					unpressedOffsetY: {
-						type: float
-						name: unpressedOffsetY
-						optional: true
-						value: 0
-					}
-					checkedOffsetX: {
-						type: float
-						name: checkedOffsetX
-						optional: true
-						value: 0
-					}
-					checkedOffsetY: {
-						type: float
-						name: checkedOffsetY
-						optional: true
-						value: 0
-					}
-				}
-				deletable: false
 				parent: null
 			}
 		]
@@ -6417,13 +5023,154 @@ jsonData: {
 				deletable: true
 				parent: null
 			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: scenario-difficulty-button
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Button
+				properties: {
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: null
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: null
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					focused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focused
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					checkedDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedDown
+						optional: true
+						value: null
+					}
+					checkedFocused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedFocused
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: true
+				parent: null
+			}
 		]
-		com.badlogic.gdx.scenes.scene2d.ui.SelectBox: [
+		com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton: [
 			{
 				class: com.ray3k.skincomposer.data.StyleData
 				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.SelectBox
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton
 				properties: {
+					imageUp: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: null
+					}
+					imageDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedDown
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
 					font: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
 						name: font
@@ -6433,8 +5180,14 @@ jsonData: {
 					fontColor: {
 						type: com.badlogic.gdx.graphics.Color
 						name: fontColor
-						optional: false
-						value: gray-000
+						optional: true
+						value: null
+					}
+					downFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: downFontColor
+						optional: true
+						value: null
 					}
 					overFontColor: {
 						type: com.badlogic.gdx.graphics.Color
@@ -6442,11 +5195,148 @@ jsonData: {
 						optional: true
 						value: null
 					}
+					focusedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: focusedFontColor
+						optional: true
+						value: null
+					}
 					disabledFontColor: {
 						type: com.badlogic.gdx.graphics.Color
 						name: disabledFontColor
 						optional: true
-						value: shadow
+						value: null
+					}
+					checkedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedFontColor
+						optional: true
+						value: null
+					}
+					checkedDownFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedDownFontColor
+						optional: true
+						value: null
+					}
+					checkedOverFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedOverFontColor
+						optional: true
+						value: null
+					}
+					checkedFocusedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedFocusedFontColor
+						optional: true
+						value: null
+					}
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: null
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: null
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					focused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focused
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					checkedDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedDown
+						optional: true
+						value: null
+					}
+					checkedFocused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedFocused
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.TextTooltip: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.TextTooltip
+				properties: {
+					label: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle
+						name: label
+						optional: false
+						value: default
 					}
 					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
@@ -6454,33 +5344,62 @@ jsonData: {
 						optional: true
 						value: null
 					}
-					scrollStyle: {
-						type: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle
-						name: scrollStyle
-						optional: false
-						value: default
+					wrapWidth: {
+						type: float
+						name: wrapWidth
+						optional: true
+						value: 0
 					}
-					listStyle: {
-						type: com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle
-						name: listStyle
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.List: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.List
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
 						optional: false
-						value: selectMenu
+						value: subtitle2
 					}
-					backgroundOver: {
+					fontColorSelected: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColorSelected
+						optional: false
+						value: gray-000
+					}
+					fontColorUnselected: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColorUnselected
+						optional: false
+						value: gray-000
+					}
+					selection: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: backgroundOver
+						name: selection
+						optional: false
+						value: list-background
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
 						optional: true
 						value: null
 					}
-					backgroundOpen: {
+					over: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: backgroundOpen
+						name: over
 						optional: true
 						value: null
 					}
-					backgroundDisabled: {
+					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: backgroundDisabled
+						name: background
 						optional: true
 						value: null
 					}
@@ -6491,7 +5410,7 @@ jsonData: {
 			{
 				class: com.ray3k.skincomposer.data.StyleData
 				name: selectMenu
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.SelectBox
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.List
 				properties: {
 					font: {
 						type: com.badlogic.gdx.graphics.g2d.BitmapFont
@@ -6499,57 +5418,39 @@ jsonData: {
 						optional: false
 						value: subtitle2
 					}
-					fontColor: {
+					fontColorSelected: {
 						type: com.badlogic.gdx.graphics.Color
-						name: fontColor
+						name: fontColorSelected
 						optional: false
 						value: gray-000
 					}
-					overFontColor: {
+					fontColorUnselected: {
 						type: com.badlogic.gdx.graphics.Color
-						name: overFontColor
-						optional: true
-						value: null
+						name: fontColorUnselected
+						optional: false
+						value: gray-000
 					}
-					disabledFontColor: {
-						type: com.badlogic.gdx.graphics.Color
-						name: disabledFontColor
+					selection: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: selection
+						optional: false
+						value: list-selection
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
 						optional: true
-						value: null
+						value: list-selection
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: list-over
 					}
 					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: background
-						optional: true
-						value: select-box-background
-					}
-					scrollStyle: {
-						type: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle
-						name: scrollStyle
-						optional: false
-						value: default
-					}
-					listStyle: {
-						type: com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle
-						name: listStyle
-						optional: false
-						value: selectMenu
-					}
-					backgroundOver: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: backgroundOver
-						optional: true
-						value: null
-					}
-					backgroundOpen: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: backgroundOpen
-						optional: true
-						value: select-box-background-open
-					}
-					backgroundDisabled: {
-						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
-						name: backgroundDisabled
 						optional: true
 						value: null
 					}
@@ -7408,15 +6309,1101 @@ jsonData: {
 				parent: null
 			}
 		]
-		com.badlogic.gdx.scenes.scene2d.ui.Touchpad: [
+		com.badlogic.gdx.scenes.scene2d.ui.Label: [
 			{
 				class: com.ray3k.skincomposer.data.StyleData
 				name: default
-				clazz: com.badlogic.gdx.scenes.scene2d.ui.Touchpad
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: body1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: h1
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: h1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: h2
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: h2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: h3
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: h3
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: h4
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: h4
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: body1
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: body1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: body2
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: body2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: button1
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: button1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: button2
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: button2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: button3
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: button3
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: subtitle1
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: subtitle1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: subtitle2
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: subtitle2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-h1
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-h1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-h2
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-h2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-h3
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-h3
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-h4
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-h4
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-body1
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-body1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-body2
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-body2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-button1
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-button1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-button2
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-button2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-button3
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-button3
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-subtitle1
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-subtitle1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: white-subtitle2
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Label
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: white-subtitle2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.SelectBox: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SelectBox
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: subtitle2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: gray-000
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: shadow
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+					scrollStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle
+						name: scrollStyle
+						optional: false
+						value: default
+					}
+					listStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle
+						name: listStyle
+						optional: false
+						value: selectMenu
+					}
+					backgroundOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOver
+						optional: true
+						value: null
+					}
+					backgroundOpen: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOpen
+						optional: true
+						value: null
+					}
+					backgroundDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundDisabled
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: selectMenu
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SelectBox
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: subtitle2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: gray-000
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: select-box-background
+					}
+					scrollStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle
+						name: scrollStyle
+						optional: false
+						value: default
+					}
+					listStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle
+						name: listStyle
+						optional: false
+						value: selectMenu
+					}
+					backgroundOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOver
+						optional: true
+						value: null
+					}
+					backgroundOpen: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOpen
+						optional: true
+						value: select-box-background-open
+					}
+					backgroundDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundDisabled
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.SplitPane: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-horizontal
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SplitPane
+				properties: {
+					handle: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: handle
+						optional: false
+						value: slider-line
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-vertical
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SplitPane
+				properties: {
+					handle: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: handle
+						optional: false
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.CheckBox: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.CheckBox
+				properties: {
+					checkboxOn: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOn
+						optional: false
+						value: checkbox-on-up
+					}
+					checkboxOff: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOff
+						optional: false
+						value: checkbox-off-up
+					}
+					checkboxOnOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOnOver
+						optional: true
+						value: checkbox-on-over
+					}
+					checkboxOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOver
+						optional: true
+						value: checkbox-off-over
+					}
+					checkboxOnDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOnDisabled
+						optional: true
+						value: checkbox-on-disabled
+					}
+					checkboxOffDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkboxOffDisabled
+						optional: true
+						value: checkbox-off-disabled
+					}
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: body1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: true
+						value: null
+					}
+					downFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: downFontColor
+						optional: true
+						value: null
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					focusedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: focusedFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					checkedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedFontColor
+						optional: true
+						value: null
+					}
+					checkedDownFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedDownFontColor
+						optional: true
+						value: null
+					}
+					checkedOverFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedOverFontColor
+						optional: true
+						value: null
+					}
+					checkedFocusedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: checkedFocusedFontColor
+						optional: true
+						value: null
+					}
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: null
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: null
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					focused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focused
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					checkedDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedDown
+						optional: true
+						value: null
+					}
+					checkedFocused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedFocused
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.Window: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Window
 				properties: {
 					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: background
+						optional: true
+						value: null
+					}
+					titleFont: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: titleFont
+						optional: false
+						value: subtitle2
+					}
+					titleFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: titleFontColor
+						optional: true
+						value: null
+					}
+					stageBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: stageBackground
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.Tree: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.Tree
+				properties: {
+					plus: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: plus
+						optional: false
+						value: button-time-plus-up
+					}
+					minus: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: minus
+						optional: false
+						value: button-time-minus-up
+					}
+					plusOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: plusOver
+						optional: true
+						value: null
+					}
+					minusOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: minusOver
+						optional: true
+						value: null
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					selection: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: selection
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.ProgressBar: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-horizontal
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ProgressBar
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: false
+						value: slider-line
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
 						optional: true
 						value: null
 					}
@@ -7425,6 +7412,236 @@ jsonData: {
 						name: knob
 						optional: true
 						value: null
+					}
+					disabledKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnob
+						optional: true
+						value: null
+					}
+					knobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobBefore
+						optional: true
+						value: null
+					}
+					disabledKnobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobBefore
+						optional: true
+						value: null
+					}
+					knobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobAfter
+						optional: true
+						value: null
+					}
+					disabledKnobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobAfter
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default-vertical
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ProgressBar
+				properties: {
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: false
+						value: slider-line
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					knob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knob
+						optional: true
+						value: null
+					}
+					disabledKnob: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnob
+						optional: true
+						value: null
+					}
+					knobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobBefore
+						optional: true
+						value: null
+					}
+					disabledKnobBefore: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobBefore
+						optional: true
+						value: null
+					}
+					knobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: knobAfter
+						optional: true
+						value: null
+					}
+					disabledKnobAfter: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledKnobAfter
+						optional: true
+						value: null
+					}
+				}
+				deletable: false
+				parent: null
+			}
+		]
+		com.badlogic.gdx.scenes.scene2d.ui.ImageButton: [
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: default
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.ImageButton
+				properties: {
+					imageUp: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageUp
+						optional: true
+						value: null
+					}
+					imageDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDown
+						optional: true
+						value: null
+					}
+					imageOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageOver
+						optional: true
+						value: null
+					}
+					imageDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageDisabled
+						optional: true
+						value: null
+					}
+					imageChecked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageChecked
+						optional: true
+						value: null
+					}
+					imageCheckedDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedDown
+						optional: true
+						value: null
+					}
+					imageCheckedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: imageCheckedOver
+						optional: true
+						value: null
+					}
+					up: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: up
+						optional: true
+						value: null
+					}
+					down: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: down
+						optional: true
+						value: null
+					}
+					over: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: over
+						optional: true
+						value: null
+					}
+					focused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focused
+						optional: true
+						value: null
+					}
+					disabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabled
+						optional: true
+						value: null
+					}
+					checked: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checked
+						optional: true
+						value: null
+					}
+					checkedOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedOver
+						optional: true
+						value: null
+					}
+					checkedDown: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedDown
+						optional: true
+						value: null
+					}
+					checkedFocused: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: checkedFocused
+						optional: true
+						value: null
+					}
+					pressedOffsetX: {
+						type: float
+						name: pressedOffsetX
+						optional: true
+						value: 0
+					}
+					pressedOffsetY: {
+						type: float
+						name: pressedOffsetY
+						optional: true
+						value: 0
+					}
+					unpressedOffsetX: {
+						type: float
+						name: unpressedOffsetX
+						optional: true
+						value: 0
+					}
+					unpressedOffsetY: {
+						type: float
+						name: unpressedOffsetY
+						optional: true
+						value: 0
+					}
+					checkedOffsetX: {
+						type: float
+						name: checkedOffsetX
+						optional: true
+						value: 0
+					}
+					checkedOffsetY: {
+						type: float
+						name: checkedOffsetY
+						optional: true
+						value: 0
 					}
 				}
 				deletable: false
@@ -8084,7 +8301,7 @@ preferences: {
 		value: "/home/michal/hotel-simulator/assets/view/empty.json"
 	}
 }
-saveFile: "/home/michal/Skin-Composer/hotel-simulator.scmp"
+saveFile: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator.scmp
 version: 56
 sceneComposer: {
 	children: [
