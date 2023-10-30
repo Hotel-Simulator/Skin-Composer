@@ -2991,6 +2991,46 @@ atlasData: {
 			type: NINE_PATCH
 			hidden: false
 		}
+		{
+			file: C:/Users/Administrator/IdeaProjects/Skin-Composer/hotel-simulator_data/selection-left-disabled.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: selection-left-disabled
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/Administrator/IdeaProjects/Skin-Composer/hotel-simulator_data/selection-right-disabled.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: selection-right-disabled
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
 	]
 	fontDrawables: [
 		{
@@ -9231,7 +9271,7 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: disabled
 						optional: true
-						value: null
+						value: selection-right-disabled
 					}
 					checked: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
@@ -9330,7 +9370,7 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: disabled
 						optional: true
-						value: null
+						value: selection-left-disabled
 					}
 					checked: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
@@ -9439,19 +9479,19 @@ jsonData: {
 						type: com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle
 						name: label
 						optional: false
-						value: default
+						value: body2
 					}
 					background: {
 						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
 						name: background
 						optional: true
-						value: null
+						value: modal-glass-background
 					}
 					wrapWidth: {
 						type: float
 						name: wrapWidth
 						optional: true
-						value: 0
+						value: 10
 					}
 				}
 				deletable: false
