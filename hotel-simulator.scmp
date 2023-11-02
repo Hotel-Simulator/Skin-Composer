@@ -2912,26 +2912,6 @@ atlasData: {
 			hidden: false
 		}
 		{
-			file: C:/Users/Administrator/IdeaProjects/Skin-Composer/hotel-simulator_data/calendar-special-cell-disabled.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			tint: null
-			tintName: null
-			name: calendar-special-cell-disabled
-			tiled: false
-			minWidth: -1
-			minHeight: -1
-			customized: false
-			tenPatchData: null
-			tvgData: null
-			type: NINE_PATCH
-			hidden: false
-		}
-		{
 			file: C:/Users/Administrator/IdeaProjects/Skin-Composer/hotel-simulator_data/calendar-special-cell-down.9.png
 			bgColor: {
 				r: 1
@@ -2962,26 +2942,6 @@ atlasData: {
 			tint: null
 			tintName: null
 			name: calendar-special-cell-over
-			tiled: false
-			minWidth: -1
-			minHeight: -1
-			customized: false
-			tenPatchData: null
-			tvgData: null
-			type: NINE_PATCH
-			hidden: false
-		}
-		{
-			file: C:/Users/Administrator/IdeaProjects/Skin-Composer/hotel-simulator_data/calendar-special-cell-up.9.png
-			bgColor: {
-				r: 1
-				g: 1
-				b: 1
-				a: 1
-			}
-			tint: null
-			tintName: null
-			name: calendar-special-cell-up
 			tiled: false
 			minWidth: -1
 			minHeight: -1
@@ -3189,6 +3149,46 @@ atlasData: {
 			tenPatchData: null
 			tvgData: null
 			type: TEXTURE
+			hidden: false
+		}
+		{
+			file: C:/Users/Administrator/IdeaProjects/Skin-Composer/hotel-simulator_data/calendar-special-cell-up.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: calendar-special-cell-up
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/Administrator/IdeaProjects/Skin-Composer/hotel-simulator_data/calendar-special-cell-disabled.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: calendar-special-cell-disabled
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
 			hidden: false
 		}
 	]
