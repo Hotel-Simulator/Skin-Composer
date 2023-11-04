@@ -1,2 +1,3 @@
 /.gradle/
 /build/
+/bin/main/Main.kt
