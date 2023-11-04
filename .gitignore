@@ -1,2 +1,7 @@
 /.gradle/
 /build/
+build/*
+!build/build.xml
+.gradle/*
+bin
+bin/*
