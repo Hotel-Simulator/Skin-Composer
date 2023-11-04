@@ -3193,6 +3193,86 @@ atlasData: {
 		}
 	]
 	fontDrawables: [
+	{
+    file: "/home/michal/Skin-Composer/hotel-simulator_data/white-subtitle3.png"
+    bgColor: {
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+    }
+    tint: null
+    tintName: null
+    name: white-subtitle3
+    tiled: false
+    minWidth: -1
+    minHeight: -1
+    customized: false
+    tenPatchData: null
+    tvgData: null
+    type: FONT
+    hidden: false
+    }
+    {
+    file: "/home/michal/Skin-Composer/hotel-simulator_data/subtitle3.png"
+    bgColor: {
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+    }
+    tint: null
+    tintName: null
+    name: subtitle3
+    tiled: false
+    minWidth: -1
+    minHeight: -1
+    customized: false
+    tenPatchData: null
+    tvgData: null
+    type: FONT
+    hidden: false
+    }
+    {
+    file: "/home/michal/Skin-Composer/hotel-simulator_data/body3.png"
+    bgColor: {
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+    }
+    tint: null
+    tintName: null
+    name: body3
+    tiled: false
+    minWidth: -1
+    minHeight: -1
+    customized: false
+    tenPatchData: null
+    tvgData: null
+    type: FONT
+    hidden: false
+    }
+    {
+    file: "/home/michal/Skin-Composer/hotel-simulator_data/white-body3.png"
+    bgColor: {
+    r: 1
+    g: 1
+    b: 1
+    a: 1
+    }
+    tint: null
+    tintName: null
+    name: white-body3
+    tiled: false
+    minWidth: -1
+    minHeight: -1
+    customized: false
+    tenPatchData: null
+    tvgData: null
+    type: FONT
+    hidden: false
+    }
 		{
 			file: C:/Users/Administrator/IdeaProjects/Skin-Composer/hotel-simulator_data/white-body1.png
 			bgColor: {
@@ -4209,6 +4289,38 @@ jsonData: {
 		}
 	]
 	fonts: [
+	{
+    class: com.ray3k.skincomposer.data.FontData
+    name: body3
+    flip: false
+    markupEnabled: false
+    scaling: -1
+    file: "/home/michal/Skin-Composer/hotel-simulator_data/body3.fnt"
+    }
+    {
+    class: com.ray3k.skincomposer.data.FontData
+    name: subtitle3
+    flip: false
+    markupEnabled: false
+    scaling: -1
+    file: "/home/michal/Skin-Composer/hotel-simulator_data/subtitle3.fnt"
+    }
+    {
+    class: com.ray3k.skincomposer.data.FontData
+    name: white-body3
+    flip: false
+    markupEnabled: false
+    scaling: -1
+    file: "/home/michal/Skin-Composer/hotel-simulator_data/white-body3.fnt"
+    }
+    {
+    class: com.ray3k.skincomposer.data.FontData
+    name: white-subtitle3
+    flip: false
+    markupEnabled: false
+    scaling: -1
+    file: "/home/michal/Skin-Composer/hotel-simulator_data/white-subtitle3.fnt"
+    }
 		{
 			class: com.ray3k.skincomposer.data.FontData
 			name: body1
