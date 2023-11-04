@@ -1,3 +1,7 @@
 /.gradle/
 /build/
-/bin/main/Main.kt
+build/*
+!build/build.xml
+.gradle/*
+bin
+bin/*
