@@ -3640,6 +3640,26 @@ atlasData: {
 			type: TENPATCH
 			hidden: false
 		}
+		{
+			file: "/home/lawos/IdeaProjects/Skin-Composer/hotel-simulator_data/event-icon-building-cost.png"
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: event-icon-building-cost
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: TEXTURE
+			hidden: false
+		}
 	]
 	fontDrawables: [
 		{
