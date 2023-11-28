@@ -3800,6 +3800,66 @@ atlasData: {
 			type: TEXTURE
 			hidden: false
 		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/full-select-box-background-disabled.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: full-select-box-background-disabled
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/full-select-box-background-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: full-select-box-background-over
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
+		{
+			file: C:/Users/barto/OneDrive/Pulpit/skin_composer/Skin-Composer/hotel-simulator_data/full-select-box-background-open-over.9.png
+			bgColor: {
+				r: 1
+				g: 1
+				b: 1
+				a: 1
+			}
+			tint: null
+			tintName: null
+			name: full-select-box-background-open-over
+			tiled: false
+			minWidth: -1
+			minHeight: -1
+			customized: false
+			tenPatchData: null
+			tvgData: null
+			type: NINE_PATCH
+			hidden: false
+		}
 	]
 	fontDrawables: [
 		{
@@ -5294,6 +5354,231 @@ jsonData: {
 						name: messageFontColor
 						optional: true
 						value: secondary-100
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: hotel_frame_small
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.TextField
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: subtitle1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: gray-900
+					}
+					focusedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: focusedFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: text-field-background
+					}
+					focusedBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focusedBackground
+						optional: true
+						value: null
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					cursor: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: cursor
+						optional: true
+						value: text-field-cursor
+					}
+					selection: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: selection
+						optional: true
+						value: null
+					}
+					messageFont: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: messageFont
+						optional: true
+						value: null
+					}
+					messageFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: messageFontColor
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: hotel_frame_medium
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.TextField
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: h4
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: gray-900
+					}
+					focusedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: focusedFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: text-field-background
+					}
+					focusedBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focusedBackground
+						optional: true
+						value: null
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					cursor: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: cursor
+						optional: true
+						value: text-field-cursor
+					}
+					selection: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: selection
+						optional: true
+						value: null
+					}
+					messageFont: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: messageFont
+						optional: true
+						value: null
+					}
+					messageFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: messageFontColor
+						optional: true
+						value: null
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: hotel_frame_large
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.TextField
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: h3
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: gray-900
+					}
+					focusedFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: focusedFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: null
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: text-field-background
+					}
+					focusedBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: focusedBackground
+						optional: true
+						value: null
+					}
+					disabledBackground: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: disabledBackground
+						optional: true
+						value: null
+					}
+					cursor: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: cursor
+						optional: true
+						value: text-field-cursor
+					}
+					selection: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: selection
+						optional: true
+						value: null
+					}
+					messageFont: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: messageFont
+						optional: true
+						value: null
+					}
+					messageFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: messageFontColor
+						optional: true
+						value: null
 					}
 				}
 				deletable: true
@@ -10184,6 +10469,213 @@ jsonData: {
 						name: backgroundDisabled
 						optional: true
 						value: select-box-background-disabled
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: custom-select-box-small
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SelectBox
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: subtitle2
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: gray-000
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: shadow
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: full-select-box-background
+					}
+					scrollStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle
+						name: scrollStyle
+						optional: false
+						value: default
+					}
+					listStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle
+						name: listStyle
+						optional: false
+						value: selectMenu
+					}
+					backgroundOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOver
+						optional: true
+						value: full-select-box-background-over
+					}
+					backgroundOpen: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOpen
+						optional: true
+						value: full-select-box-background-open
+					}
+					backgroundDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundDisabled
+						optional: true
+						value: full-select-box-background-disabled
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: custom-select-box-medium
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SelectBox
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: subtitle1
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: gray-000
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: shadow
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: full-select-box-background
+					}
+					scrollStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle
+						name: scrollStyle
+						optional: false
+						value: default
+					}
+					listStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle
+						name: listStyle
+						optional: false
+						value: selectMenu
+					}
+					backgroundOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOver
+						optional: true
+						value: full-select-box-background-over
+					}
+					backgroundOpen: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOpen
+						optional: true
+						value: full-select-box-background-open
+					}
+					backgroundDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundDisabled
+						optional: true
+						value: full-select-box-background-disabled
+					}
+				}
+				deletable: true
+				parent: null
+			}
+			{
+				class: com.ray3k.skincomposer.data.StyleData
+				name: custom-select-box-large
+				clazz: com.badlogic.gdx.scenes.scene2d.ui.SelectBox
+				properties: {
+					font: {
+						type: com.badlogic.gdx.graphics.g2d.BitmapFont
+						name: font
+						optional: false
+						value: h4
+					}
+					fontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: fontColor
+						optional: false
+						value: gray-000
+					}
+					overFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: overFontColor
+						optional: true
+						value: null
+					}
+					disabledFontColor: {
+						type: com.badlogic.gdx.graphics.Color
+						name: disabledFontColor
+						optional: true
+						value: shadow
+					}
+					background: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: background
+						optional: true
+						value: full-select-box-background
+					}
+					scrollStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle
+						name: scrollStyle
+						optional: false
+						value: default
+					}
+					listStyle: {
+						type: com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle
+						name: listStyle
+						optional: false
+						value: selectMenu
+					}
+					backgroundOver: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOver
+						optional: true
+						value: full-select-box-background-over
+					}
+					backgroundOpen: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundOpen
+						optional: true
+						value: full-select-box-background-open
+					}
+					backgroundDisabled: {
+						type: com.badlogic.gdx.scenes.scene2d.utils.Drawable
+						name: backgroundDisabled
+						optional: true
+						value: full-select-box-background-disabled
 					}
 				}
 				deletable: true
